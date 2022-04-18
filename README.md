@@ -5,5 +5,5 @@ try
 fdf
 fgh
 getytt
-ds
+dstret
 t54
